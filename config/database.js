@@ -4,7 +4,7 @@ module.exports = new Sequelize({
     dialect: 'postgres',
     host: 'localhost',
     username: 'postgres',
-    password: 'Tiago11balan',
+    password: '123',
     database: 'catalogo',
     define: {
         timestamps: true,
